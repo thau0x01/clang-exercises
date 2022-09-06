@@ -1,5 +1,3 @@
-
-
 // Send a "cooked" IPv4 TCP packet via raw socket.
 // Need to specify destination MAC address.
 // Values set for SYN packet, no TCP options data.
