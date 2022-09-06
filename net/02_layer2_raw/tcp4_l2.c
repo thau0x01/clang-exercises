@@ -1,5 +1,3 @@
-
-
 // Send an IPv4 TCP packet via raw socket at the link layer (ethernet frame).
 // Need to have destination MAC address.
 // Values set for SYN packet, no TCP options data.
