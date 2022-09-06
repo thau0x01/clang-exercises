@@ -1,5 +1,3 @@
-
-
 // Send a "cooked" IPv4 UDP packet via raw socket.
 // Need to specify destination MAC address.
 // Includes some UDP data.
