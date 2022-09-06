@@ -4,7 +4,8 @@ This repository contains programs I developed while practicizing coding in C for
 ## Project structure
 
 ```
-. - Root directory
-└── net - Socket and networking related examples
-    ├── 00_arp_eth_frames - Socket Programming on OSI Model's layer 2
+└── net
+    ├── 00_arp_eth_frames
+    ├── 01_raw_sockets
+    ├── 02_layer2_raw
 ```
