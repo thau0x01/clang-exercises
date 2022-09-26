@@ -1,5 +1,3 @@
-
-
 // Send an IPv4 TCP packet via raw socket at the link layer (ethernet frame)
 // with a large payload requiring fragmentation.
 // Need to have destination MAC address.
